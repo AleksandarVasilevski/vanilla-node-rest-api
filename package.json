@@ -1,0 +1,27 @@
+{
+  "name": "vanilla-node-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandarVasilevski/vanilla-node-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandarVasilevski/vanilla-node-rest-api/issues"
+  },
+  "homepage": "https://github.com/AleksandarVasilevski/vanilla-node-rest-api#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
