@@ -2,4 +2,7 @@
 
 Vanilla Node.js REST API clean architecture example.
 
-Dependencies used nodemon and uuid.
+Libraries used: 
+nodemon
+uuid
+jest
