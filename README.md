@@ -6,3 +6,8 @@ Libraries used:
 nodemon
 uuid
 jest
+
+TODO:
+Refactor to TS on a new branch
+Do more tests with Jest
+Improve routing and error handling
